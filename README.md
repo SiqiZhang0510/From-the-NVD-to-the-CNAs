@@ -1,6 +1,6 @@
 # From-the-NVD-to-the-CNAs
 
-This repository, developed jointly with the NWO Theseus project, provides the datasets used in the paper for analyzing entry-level and group-level inconsistencies between 20 public CNAs and the NVD.  
+This repository provides the datasets used in the paper for analyzing entry-level and group-level inconsistencies between CNAs and the NVD.  
 **Note**: The private CNA dataset is not included in this repository.
 
 # Folder Contents
